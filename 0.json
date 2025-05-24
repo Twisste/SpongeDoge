@@ -1,0 +1,33 @@
+{
+    "name": "SpongeDoge",
+    "symbol": "SPD",
+    "description": "Ohhh who lives in a blockchain under the sea?\nSpongeDogecoin!\nWho's memeing so hard he might just break free?\nSpongeDogecoin!\nIf memes and dumb tokens are something you wish...\nSpongeDogecoin!.",
+    "seller_fee_basis_points": 500, 
+    "image": "0.jpeg",
+    "attributes": [
+      { "trait_type": "Rareté", "value": "Légendaire" }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "0.jpeg",
+          "type": "0.jpeg"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+            "address": "DTjdUhhnn5iU4JPmHVW9Bwm8Bq96DPMXxDcLJY6og5xD",
+            "share": 33
+        },
+        {
+            "address": "F6H7JNt89YqZQ56RqDwB9y6VVTkCf4YPihAzQUiUXxsK",
+            "share": 33
+        },
+        {
+            "address": "Hbivhwt8FRz6YWkrDw3H16n1jMUHz8BFaC1ZPsMSc5qf",
+            "share": 34
+        }
+        ]
+    }
+  }
